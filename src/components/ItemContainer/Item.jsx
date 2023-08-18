@@ -6,7 +6,7 @@ const Item = ({ product }) => {
         <h5>{product.name}</h5>
         <p>{product.price}</p>
       </div>
-      <button className="button-add button-index" id={product.id}>
+      <button onClick="" className="button-add button-index" id={product.id}>
         Agregar
       </button>
     </div>

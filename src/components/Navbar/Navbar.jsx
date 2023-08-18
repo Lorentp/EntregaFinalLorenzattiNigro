@@ -11,44 +11,72 @@ const Navbar = () => {
       <nav>
         <ul>
           <li>
-            <button className="products-category button-index active" id="all">
+            <button
+              onClick=""
+              className="products-category button-index active"
+              id="all"
+            >
               Todos los Productos
             </button>
           </li>
         </ul>
         <ul className="categories">
           <li>
-            <button className="products-category button-index" id="action">
+            <button
+              onClick=""
+              className="products-category button-index"
+              id="action"
+            >
               Accion
             </button>
           </li>
 
           <li>
-            <button className="products-category button-index" id="strategy">
+            <button
+              onClick=""
+              className="products-category button-index"
+              id="strategy"
+            >
               Estrategia
             </button>
           </li>
 
           <li>
-            <button className="products-category button-index" id="indie">
+            <button
+              onClick=""
+              className="products-category button-index"
+              id="indie"
+            >
               Indie
             </button>
           </li>
 
           <li>
-            <button className="products-category button-index" id="rpg">
+            <button
+              onClick=""
+              className="products-category button-index"
+              id="rpg"
+            >
               RPG
             </button>
           </li>
 
           <li>
-            <button className="products-category button-index" id="simulator">
+            <button
+              onClick=""
+              className="products-category button-index"
+              id="simulator"
+            >
               Simuladores
             </button>
           </li>
 
           <li>
-            <button className="products-category button-index" id="survival">
+            <button
+              onClick=""
+              className="products-category button-index"
+              id="survival"
+            >
               Survival
             </button>
           </li>
