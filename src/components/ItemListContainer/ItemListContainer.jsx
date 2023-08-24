@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { getData } from "../../helper/data.js";
 import ItemList from "./ItemList.jsx";
 
-const ItemContainer = ({ imgSrc, productTitle, productPrice, productId }) => {
+const ItemListContainer = () => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
@@ -14,4 +14,4 @@ const ItemContainer = ({ imgSrc, productTitle, productPrice, productId }) => {
   return <ItemList products={products} />;
 };
 
-export default ItemContainer;
+export default ItemListContainer;
