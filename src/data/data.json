@@ -3,6 +3,7 @@
     "id": 1,
     "img": "https://www.instant-gaming.com/images/products/9094/380x218/9094.jpg?v=1674837212",
     "name": "Dead Space",
+<<<<<<< HEAD
     "category": { "id": "accion", "categories-name": "Acción" },
     "price": 39.13,
     "description": "Dead Space es un remake del videojuego de supervivencia original de 2008 del mismo nombre, al que siguieron varias secuelas: Dead Space 2 (2011) y Dead Space 3 (2013) y un universo derivado llamado Dead Space Franchise que incluía más juegos, películas y novelas gráficas/cómics.",
@@ -12,11 +13,21 @@
     "img3": "https://gaming-cdn.com/images/products/9094/screenshot/dead-space-pc-juego-origin-wallpaper-2.jpg?v=1674837212",
     "img4": "https://gaming-cdn.com/images/products/9094/screenshot/dead-space-pc-juego-origin-wallpaper-3.jpg?v=1674837212",
     "img5": "https://gaming-cdn.com/images/products/9094/screenshot/dead-space-pc-juego-origin-wallpaper-4.jpg?v=1674837212"
+=======
+    "categoria": { "id": "action", "nombre": "Acción" },
+    "price": 39.13,
+    "video":"https://www.youtube.com/watch?v=mWrBqrifdvk",
+    "img2":"https://gaming-cdn.com/images/products/9094/screenshot/dead-space-pc-juego-origin-wallpaper-1.jpg?v=1674837212",
+    "img3":"https://gaming-cdn.com/images/products/9094/screenshot/dead-space-pc-juego-origin-wallpaper-2.jpg?v=1674837212",
+    "img4":"https://gaming-cdn.com/images/products/9094/screenshot/dead-space-pc-juego-origin-wallpaper-3.jpg?v=1674837212",
+    "img5":"https://gaming-cdn.com/images/products/9094/screenshot/dead-space-pc-juego-origin-wallpaper-4.jpg?v=1674837212"
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 2,
     "img": "https://www.instant-gaming.com/images/products/186/380x218/186.jpg?v=1647095361",
     "name": "GTA V",
+<<<<<<< HEAD
     "category": { "id": "accion", "categories-name": "Acción" },
     "price": 11.56,
     "description": "Grand Theft Auto V es un juego de acción y aventuras, el quinto de la serie GTA. Como ya es tradición en los juegos de esta serie, se obtienen puntos mediante la comisión de delitos. El juego alterna entre la narrativa visual y la jugabilidad en tercera y en primera persona. El jugador toma el papel de tres criminales tratando de huir de una determinada agencia del gobierno y cometiendo asaltos. No se elige un solo personaje para jugar, la narrativa del juego salta de un personaje a otro.",
@@ -26,11 +37,21 @@
     "img3": "https://gaming-cdn.com/images/products/186/screenshot/grand-theft-auto-v-pc-juego-rockstar-wallpaper-2.jpg?v=1647095361",
     "img4": "https://gaming-cdn.com/images/products/186/screenshot/grand-theft-auto-v-pc-juego-rockstar-wallpaper-3.jpg?v=1647095361",
     "img5": "https://gaming-cdn.com/images/products/186/screenshot/grand-theft-auto-v-pc-juego-rockstar-wallpaper-4.jpg?v=1647095361"
+=======
+    "categoria": { "id": "action", "nombre": "Acción" },
+    "price": 11.56,
+    "video":"https://www.youtube.com/watch?v=QkkoHAzjnUs",
+    "img2":"https://gaming-cdn.com/images/products/186/screenshot/grand-theft-auto-v-pc-juego-rockstar-wallpaper-1-big.jpg?v=1647095361",
+    "img3":"https://gaming-cdn.com/images/products/186/screenshot/grand-theft-auto-v-pc-juego-rockstar-wallpaper-2.jpg?v=1647095361",
+    "img4":"https://gaming-cdn.com/images/products/186/screenshot/grand-theft-auto-v-pc-juego-rockstar-wallpaper-3.jpg?v=1647095361",
+    "img5":"https://gaming-cdn.com/images/products/186/screenshot/grand-theft-auto-v-pc-juego-rockstar-wallpaper-4.jpg?v=1647095361"
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 3,
     "img": "https://www.instant-gaming.com/images/products/4640/380x218/4640.jpg?v=1650980389",
     "name": "Hell Let Loose",
+<<<<<<< HEAD
     "category": { "id": "accion", "categories-name": "Acción" },
     "price": 22.48,
     "description": "Hell Let Loose para PC es un shooter multijugador bestial en primera persona ambientado durante la Segunda Guerra Mundial. El juego se especializa en batallas de cien jugadores, pero no eres tú contra noventa y nueve feroces otros. En cambio, se te clasifica en unidades de seis soldados cada una, y todas las unidades (alrededor de ocho por bando) se dividen en dos equipos.",
@@ -40,11 +61,21 @@
     "img3": "https://gaming-cdn.com/images/products/4640/screenshot/hell-let-loose-pc-juego-steam-wallpaper-2.jpg?v=1650980389",
     "img4": "https://gaming-cdn.com/images/products/4640/screenshot/hell-let-loose-pc-juego-steam-wallpaper-3.jpg?v=1650980389",
     "img5": "https://gaming-cdn.com/images/products/4640/screenshot/hell-let-loose-pc-juego-steam-wallpaper-4.jpg?v=1650980389"
+=======
+    "categoria": { "id": "action", "nombre": "Acción" },
+    "price": 22.48,
+    "video":"https://www.youtube.com/watch?v=S3hLu58KXg8",
+    "img2":"https://gaming-cdn.com/images/products/4640/screenshot/hell-let-loose-pc-juego-steam-wallpaper-1.jpg?v=1650980389",
+    "img3":"https://gaming-cdn.com/images/products/4640/screenshot/hell-let-loose-pc-juego-steam-wallpaper-2.jpg?v=1650980389",
+    "img4":"https://gaming-cdn.com/images/products/4640/screenshot/hell-let-loose-pc-juego-steam-wallpaper-3.jpg?v=1650980389",
+    "img5":"https://gaming-cdn.com/images/products/4640/screenshot/hell-let-loose-pc-juego-steam-wallpaper-4.jpg?v=1650980389"
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 4,
     "img": "https://www.instant-gaming.com/images/products/3339/380x218/3339.jpg?v=1649408755",
     "name": "Mortal Kombat 11",
+<<<<<<< HEAD
     "category": { "id": "accion", "categories-name": "Acción" },
     "price": 3.23,
     "description": "Mortal Kombat 11 es un juego de lucha 2.5D que celebra, como su nombre lo sugiere, la impresionante cifra de veintisiete años de historia de la serie Mortal Kombat. Desde luego, esto ofrece a los jugadores una historia rica en trasfondo y personajes (sobre todo a los nuevos jugadores), pero también significa que los desarrolladores cuentan con una increíble cantidad de experiencia en la creación de juegos de lucha convincentes e inmersivos. ¡Y esa experiencia queda de manifiesto en la calidad de esta edición!  Al hablar de 2D nos referimos a imágenes planas, que tienen longitud y amplitud. El 3D, por su parte, nos ofrece imágenes con profundidad, ya sea mediante la utilización de escenarios de la vida real o con profundidad simulada para videojuegos y películas. El término 2.5D, por su parte, es utilizado cuando la ilusión óptica del 3d se nos ofrece sobre una plataforma en 2D, o cuando un juego ha sido diseñado en su mayoría en 2D, pero cuenta con algunas características completamente en 3D. Este juego se enmarca dentro de la clasificación 2.5D.",
@@ -54,11 +85,21 @@
     "img3": "https://gaming-cdn.com/images/products/3339/screenshot/mortal-kombat-11-pc-juego-steam-wallpaper-2.jpg?v=1649408755",
     "img4": "https://gaming-cdn.com/images/products/3339/screenshot/mortal-kombat-11-pc-juego-steam-wallpaper-3.jpg?v=1649408755",
     "img5": "https://gaming-cdn.com/images/products/3339/screenshot/mortal-kombat-11-pc-juego-steam-wallpaper-4.jpg?v=1649408755"
+=======
+    "categoria": { "id": "action", "nombre": "Acción" },
+    "price": 3.23,
+    "video":"https://www.youtube.com/watch?v=UoTams2yc0s",
+    "img2":"https://gaming-cdn.com/images/products/3339/screenshot/mortal-kombat-11-pc-juego-steam-wallpaper-1.jpg?v=1649408755",
+    "img3":"https://gaming-cdn.com/images/products/3339/screenshot/mortal-kombat-11-pc-juego-steam-wallpaper-2.jpg?v=1649408755",
+    "img4":"https://gaming-cdn.com/images/products/3339/screenshot/mortal-kombat-11-pc-juego-steam-wallpaper-3.jpg?v=1649408755",
+    "img5":"https://gaming-cdn.com/images/products/3339/screenshot/mortal-kombat-11-pc-juego-steam-wallpaper-4.jpg?v=1649408755"
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 5,
     "img": "https://www.instant-gaming.com/images/products/5679/380x218/5679.jpg?v=1647026658",
     "name": "Red Dead Redemption II",
+<<<<<<< HEAD
     "category": { "id": "accion", "categories-name": "Acción" },
     "price": 16.52,
     "description": "Red Dead Redemption 2 es un juego de acción y aventuras de mundo abierto en el que el jugador puede vagar libremente. Cuenta algunos elementos en tercera persona, además de otras modalidades de juego en primera persona. El jugador puede cometer crímenes, pero de hacerlo deberá estar preparado para ser perseguido por las fuerzas del orden, ¡quienes estarán dispuestas a hacer valer todo el peso de la ley sobre los delincuentes!",
@@ -68,11 +109,21 @@
     "img3": "https://gaming-cdn.com/images/products/5679/screenshot/red-dead-redemption-2-pc-juego-rockstar-wallpaper-2.jpg?v=1647026658",
     "img4": "https://gaming-cdn.com/images/products/5679/screenshot/red-dead-redemption-2-pc-juego-rockstar-wallpaper-3.jpg?v=1647026658",
     "img5": "https://gaming-cdn.com/images/products/5679/screenshot/red-dead-redemption-2-pc-juego-rockstar-wallpaper-4.jpg?v=1647026658"
+=======
+    "categoria": { "id": "action", "nombre": "Acción" },
+    "price": 16.52,
+    "video":"",
+    "img2":"",
+    "img3":"",
+    "img4":"",
+    "img5":"",
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 6,
     "img": "https://gaming-cdn.com/images/products/12953/380x218/marvel-s-spider-man-miles-morales-pc-juego-steam-cover.jpg?v=1683639469",
     "name": "Spider Man Miles Morales",
+<<<<<<< HEAD
     "category": { "id": "accion", "categories-name": "Acción" },
     "price": 26.42,
     "description": "Marvel’s Spider-Man: Miles Morales es el juego de consola de 2020 remasterizado para PC. Es un juego de acción y aventura basado en la obra gráfica de una década que culminó en la película de animación de 2018, Spiderman into the Spiderverse.",
@@ -81,11 +132,21 @@
     "img3": "https://gaming-cdn.com/images/products/12953/screenshot/marvel-s-spider-man-miles-morales-pc-juego-steam-wallpaper-2.jpg?v=1683639469",
     "img4": "https://gaming-cdn.com/images/products/12953/screenshot/marvel-s-spider-man-miles-morales-pc-juego-steam-wallpaper-4.jpg?v=1683639469",
     "img5": "https://gaming-cdn.com/images/products/12953/screenshot/marvel-s-spider-man-miles-morales-pc-juego-steam-wallpaper-3.jpg?v=1683639469"
+=======
+    "categoria": { "id": "action", "nombre": "Acción" },
+    "price": 26.42,
+    "video":"",
+    "img2":"",
+    "img3":"",
+    "img4":"",
+    "img5":"",
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 7,
     "img": "https://www.instant-gaming.com/images/products/1306/380x218/1306.jpg?v=1649155422",
     "name": "Super Hot ",
+<<<<<<< HEAD
     "category": { "id": "accion", "categories-name": "Acción" },
     "price": 2.5,
     "description": "En SUPERHOT se desdibujan los límites entre estrategia precavida y caos desatado, creando un shooter en primera persona donde el tiempo solo se mueve si tú lo haces. Sin barras de salud que se regeneren. Ni alijos de municiones convenientemente situados. Solo estás tú, superado en número y armamento, aunque podrás recoger las armas de los enemigos abatidos, disparando, dando tajos y maniobrando en medio de un aluvión de balas a cámara lenta. Gracias a sus singulares y estilizados gráficos, SUPERHOT aporta algo nuevo e inquietante al género de los juegos de tiros en primera persona. El lenguaje visual minimalista y refinado de SUPERHOT te ayudará a concentrarte en lo más importante: la fluidez de la jugabilidad y la belleza cinemática del combate.",
@@ -94,11 +155,21 @@
     "img3": "https://gaming-cdn.com/images/products/1306/screenshot/superhot-pc-mac-juego-steam-wallpaper-2.jpg?v=1649155422",
     "img4": "https://gaming-cdn.com/images/products/1306/screenshot/superhot-pc-mac-juego-steam-wallpaper-3.jpg?v=1649155422",
     "img5": "https://gaming-cdn.com/images/products/1306/screenshot/superhot-pc-mac-juego-steam-wallpaper-5.jpg?v=1649155422"
+=======
+    "categoria": { "id": "action", "nombre": "Acción" },
+    "price": 2.5,
+    "video":"",
+    "img2":"",
+    "img3":"",
+    "img4":"",
+    "img5":"",
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 8,
     "img": "https://www.instant-gaming.com/images/products/1640/380x218/1640.jpg?v=1649865185",
     "name": "Rise Of The Tomb Raider",
+<<<<<<< HEAD
     "category": { "id": "accion", "categories-name": "Acción" },
     "price": 13.69,
     "description": "Rise of the Tomb Raider: Edición 20 aniversario incluye el juego de base y el pase de temporada con contenido totalmente nuevo. Explora y defiende la Mansión Croft en la nueva historia ''Blood Ties'', defiéndela contra una invasión zombi en ''Lara’s Nightmare''. Sobrevive en condiciones extremas junto a un amigo en el modo Aguante cooperativo online y atrévete con la nueva dificultad ''Superviviente extremo''. También podrás disfrutar de un atuendo y arma inspirados por Tomb Raider III, así como 5 skins clásicos de Lara. El DLC existente te retará a explorar una nueva tumba que alberga un terror antiguo en Baba Yaga: el templo de la bruja y combate hordas de depredadores infectados en El despertar de la fría oscuridad'",
@@ -107,12 +178,22 @@
     "img3": "https://gaming-cdn.com/images/products/485/screenshot/rise-of-the-tomb-raider-pc-mac-juego-steam-wallpaper-5.jpg?v=1650527238",
     "img4": "https://gaming-cdn.com/images/products/485/screenshot/rise-of-the-tomb-raider-pc-mac-juego-steam-wallpaper-4.jpg?v=1650527238",
     "img5": "https://gaming-cdn.com/images/products/485/screenshot/rise-of-the-tomb-raider-pc-mac-juego-steam-wallpaper-2.jpg?v=1650527238"
+=======
+    "categoria": { "id": "action", "nombre": "Acción" },
+    "price": 13.69,
+    "video":"",
+    "img2":"",
+    "img3":"",
+    "img4":"",
+    "img5":"",
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
 
   {
     "id": 9,
     "img": "https://www.instant-gaming.com/images/products/4820/380x218/4820.jpg?v=1650985512",
     "name": "Age Of Empires II DE",
+<<<<<<< HEAD
     "category": { "id": "estrategia", "categories-name": "Estrategia" },
     "price": 7.82,
     "description": "Age of Empires II: Definitive Edition es el relanzamiento del clásico de estrategia en tiempo real en su vigésimo aniversario. El juego conserva todo el encanto y la popularidad del original, pero lo combina con veinte años de mejoras en el mundo de los juegos: gráficos de alta definición, jugabilidad y visuales mejorados y cuatro nuevas civilizaciones, así como una nueva campaña para un jugador llamada The Last Khans.",
@@ -121,11 +202,21 @@
     "img3": "https://gaming-cdn.com/images/products/4820/screenshot/age-of-empires-ii-definitive-edition-definitive-edition-pc-juego-steam-wallpaper-3.jpg?v=1650985512",
     "img4": "https://gaming-cdn.com/images/products/4820/screenshot/age-of-empires-ii-definitive-edition-definitive-edition-pc-juego-steam-wallpaper-4.jpg?v=1650985512",
     "img5": "https://gaming-cdn.com/images/products/4820/screenshot/age-of-empires-ii-definitive-edition-definitive-edition-pc-juego-steam-wallpaper-2.jpg?v=1650985512"
+=======
+    "categoria": { "id": "strategy", "nombre": "Estrategia" },
+    "price": 7.82,
+    "video":"",
+    "img2":"",
+    "img3":"",
+    "img4":"",
+    "img5":"",
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 11,
     "img": "https://www.instant-gaming.com/images/products/6275/380x218/6275.jpg?v=1652094501",
     "name": "Age Of Empires III DE",
+<<<<<<< HEAD
     "category": { "id": "estrategia", "categories-name": "Estrategia" },
     "price": 5.15,
     "description": "Age of Empires III: Definitive Edition ofrece a los jugadores la posibilidad de probar este RTS histórico para un jugador y multijugador. Disfruta de diferentes civilizaciones, batallas históricas cooperativas, unos impresionantes gráficos 4K Ultra HD y un sistema de juego modernizado. Para que la diversión sea constante, el contenido desbloqueado rotará cada mes. Incluyen rotaciones de civilizaciones, cosméticos de héroe y eventos, ¡así que ven a jugar a menudo! ¡Únete a la comunidad e invita a un amigo a jugar!",
@@ -134,11 +225,21 @@
     "img3": "https://gaming-cdn.com/images/products/6275/screenshot/age-of-empires-iii-definitive-edition-definitive-edition-pc-juego-steam-wallpaper-2.jpg?v=1652094501",
     "img4": "https://gaming-cdn.com/images/products/6275/screenshot/age-of-empires-iii-definitive-edition-definitive-edition-pc-juego-steam-wallpaper-3.jpg?v=1652094501",
     "img5": "https://gaming-cdn.com/images/products/6275/screenshot/age-of-empires-iii-definitive-edition-definitive-edition-pc-juego-steam-wallpaper-4.jpg?v=1652094501"
+=======
+    "categoria": { "id": "strategy", "nombre": "Estrategia" },
+    "price": 5.15,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 12,
     "img": "https://www.instant-gaming.com/images/products/2244/380x218/2244.jpg?v=1673269295",
     "name": "Age Of Empires IV",
+<<<<<<< HEAD
     "category": { "id": "estrategia", "categories-name": "Estrategia" },
     "price": 22.91,
     "description": "Age of Empires IV es un juego de estrategia en tiempo real, el cuarto de la serie Age of Empires, que además llega quince años después del tercer título de la saga. Esta versión está ambientada en la Edad Media y tiene mucha implicación con la campaña de los normandos. Si eras un gran fanático del tercer juego podrás transferir algunas de las mecánicas de aquel título a esta nueva y mejorada plataforma.",
@@ -147,10 +248,20 @@
     "img3": "https://gaming-cdn.com/images/products/9819/screenshot/age-of-empires-iv-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-wallpaper-2.jpg?v=1683637727",
     "img4": "https://gaming-cdn.com/images/products/9819/screenshot/age-of-empires-iv-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-wallpaper-3.jpg?v=1683637727",
     "img5": "https://gaming-cdn.com/images/products/9819/screenshot/age-of-empires-iv-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-wallpaper-4.jpg?v=1683637727"
+=======
+    "categoria": { "id": "strategy", "nombre": "Estrategia" },
+    "price": 22.91,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 13,
     "img": "https://www.instant-gaming.com/images/products/6210/380x218/6210.jpg?v=1648537989",
+<<<<<<< HEAD
     "name": "Frostpunk",
     "category": { "id": "estrategia", "categories-name": "Estrategia" },
     "price": 10.27,
@@ -160,11 +271,22 @@
     "img3": "https://gaming-cdn.com/images/products/5864/screenshot/frostpunk-global-pc-juego-steam-wallpaper-2.jpg?v=1651505734",
     "img4": "https://gaming-cdn.com/images/products/5864/screenshot/frostpunk-global-pc-juego-steam-wallpaper-3.jpg?v=1651505734",
     "img5": "https://gaming-cdn.com/images/products/5864/screenshot/frostpunk-global-pc-juego-steam-wallpaper-5.jpg?v=1651505734"
+=======
+    "name": "FrostPunk",
+    "categoria": { "id": "strategy", "nombre": "Estrategia" },
+    "price": 10.27,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 14,
     "img": "https://www.instant-gaming.com/images/products/1955/380x218/1955.jpg?v=1649236830",
     "name": "Northgard",
+<<<<<<< HEAD
     "category": { "id": "estrategia", "categories-name": "Estrategia" },
     "price": 5.65,
     "description": "Northgard es un juego de estrategia en tiempo real en el que el jugador debe levantar un asentamiento vikingo desde sus humildes comienzos y desarrollarlo hasta convertirse en una civilización poderosa. El juego cuenta con varias fases que hacen que la velocidad de expansión sea relativamente lenta, brindando a los jugadores tiempo suficiente para meditar sus decisiones a medida que progresan por el mismo.",
@@ -173,11 +295,21 @@
     "img3": "https://gaming-cdn.com/images/products/1955/screenshot/northgard-pc-mac-juego-steam-wallpaper-5.jpg?v=1649236830",
     "img4": "https://gaming-cdn.com/images/products/1955/screenshot/northgard-pc-mac-juego-steam-wallpaper-3.jpg?v=1649236830",
     "img5": "https://gaming-cdn.com/images/products/1955/screenshot/northgard-pc-mac-juego-steam-wallpaper-4.jpg?v=1649236830"
+=======
+    "categoria": { "id": "strategy", "nombre": "Estrategia" },
+    "price": 5.65,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 15,
     "img": "https://www.instant-gaming.com/images/products/1026/380x218/1026.jpg?v=1651477451",
     "name": "Total War Empire DE",
+<<<<<<< HEAD
     "category": { "id": "estrategia", "categories-name": "Estrategia" },
     "price": 5.43,
     "description": "Controla la tierra, domina los mares, forja una nueva nación y conquista el mundo. Total War: EMPIRE lleva la saga Total War al siglo XVIII, el Siglo de las Luces, una época de agitación política, avances militares y pensamiento radical. Todo capturado con asombroso detalle. Total War: EMPIRE introduce multitud de nuevas características revolucionarias, entre las que se incluyen combates navales en 3D real. Por primera vez en la serie Total War, podrás dirigir de forma intuitiva un único barco o extensas flotas en paisajes marinos repletos de efectos meteorológicos y de agua extraordinarios que jugarán un gran papel en lo que acabará siendo tu glorioso triunfo o vergonzosa derrota. Después de bombardear al enemigo con los cañones, acércate para amarrar su barco y prepárate para abordar: toma el control de tus hombres mientras luchan mano a mano en las cubiertas de estos mastodontes de madera.",
@@ -186,10 +318,20 @@
     "img3": "https://gaming-cdn.com/images/products/1026/screenshot/total-war-empire-definitive-edition-definitive-edition-pc-mac-juego-steam-wallpaper-3.jpg?v=1651477451",
     "img4": "https://gaming-cdn.com/images/products/1026/screenshot/total-war-empire-definitive-edition-definitive-edition-pc-mac-juego-steam-wallpaper-5.jpg?v=1651477451",
     "img5": "https://gaming-cdn.com/images/products/1026/screenshot/total-war-empire-definitive-edition-definitive-edition-pc-mac-juego-steam-wallpaper-2.jpg?v=1651477451"
+=======
+    "categoria": { "id": "strategy", "nombre": "Estrategia" },
+    "price": 5.43,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 16,
     "img": "https://www.instant-gaming.com/images/products/8552/380x218/8552.jpg?v=1652774815",
+<<<<<<< HEAD
     "name": "Total War Rome Remastered",
     "category": { "id": "estrategia", "categories-name": "Estrategia" },
     "price": 12.88,
@@ -199,11 +341,22 @@
     "img3": "https://gaming-cdn.com/images/products/8552/screenshot/total-war-rome-remastered-remastered-edition-pc-mac-juego-steam-wallpaper-2.jpg?v=1652774815",
     "img4": "https://gaming-cdn.com/images/products/8552/screenshot/total-war-rome-remastered-remastered-edition-pc-mac-juego-steam-wallpaper-3.jpg?v=1652774815",
     "img5": "https://gaming-cdn.com/images/products/8552/screenshot/total-war-rome-remastered-remastered-edition-pc-mac-juego-steam-wallpaper-4.jpg?v=1652774815"
+=======
+    "name": "Total War Rome",
+    "categoria": { "id": "strategy", "nombre": "Estrategia" },
+    "price": 12.88,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 17,
     "img": "https://www.instant-gaming.com/images/products/8877/380x218/8877.jpg?v=1666774187",
     "name": "Victoria 3",
+<<<<<<< HEAD
     "category": { "id": "estrategia", "categories-name": "Estrategia" },
     "price": 28.4,
     "description": "Paradox Development Studio te invita a formar tu sociedad ideal en el tumulto del siglo XIX, con todas sus emociones y transformaciones. Equilibra los intereses contrapuestos de tu sociedad y hazte un hueco en Victoria 3, uno de los juegos más esperados de la historia de Paradox.",
@@ -212,12 +365,22 @@
     "img3": "https://gaming-cdn.com/images/products/8877/screenshot/victoria-3-pc-mac-juego-steam-wallpaper-2.jpg?v=1666774187",
     "img4": "https://gaming-cdn.com/images/products/8877/screenshot/victoria-3-pc-mac-juego-steam-wallpaper-4.jpg?v=1666774187",
     "img5": "https://gaming-cdn.com/images/products/8877/screenshot/victoria-3-pc-mac-juego-steam-wallpaper-3.jpg?v=1666774187"
+=======
+    "categoria": { "id": "strategy", "nombre": "Estrategia" },
+    "price": 28.4,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
 
   {
     "id": 18,
     "img": "https://www.instant-gaming.com/images/products/2271/380x218/2271.jpg?v=1649258271",
     "name": "Beat Cop",
+<<<<<<< HEAD
     "category": { "id": "indie", "categories-name": "Indie" },
     "price": 1.1,
     "description": "Nueva York, más parecida a una bestia que a una ciudad. Explora hasta los lugares más recónditos y descubre sus secretos en la piel de Jack Kelly, un detective retirado al que intentan condenar por un asesinato que no ha cometido. Degradado y olvidado por sus antiguos compañeros, es tu última oportunidad de sacar a relucir la verdad que se esconde tras este horrible desastre. Pero tu nuevo jefe te trata fatal, tu mujer es una infernal máquina de gastar dinero y la mafia de la ciudad quiere ver tu cabeza servida en un plato. Podríamos afirmar que las cosas se han complicado un poco aquí en el centro de Brooklyn. Y no nos olvidemos de que tienes que poner multas. Después de todo eres un Beat Cop.",
@@ -226,11 +389,21 @@
     "img3": "https://gaming-cdn.com/images/products/2271/screenshot/beat-cop-pc-mac-juego-steam-wallpaper-2.jpg?v=1649258271",
     "img4": "https://gaming-cdn.com/images/products/2271/screenshot/beat-cop-pc-mac-juego-steam-wallpaper-3.jpg?v=1649258271",
     "img5": "https://gaming-cdn.com/images/products/2271/screenshot/beat-cop-pc-mac-juego-steam-wallpaper-5.jpg?v=1649258271"
+=======
+    "categoria": { "id": "indie", "nombre": "Indie" },
+    "price": 1.1,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 19,
     "img": "https://www.instant-gaming.com/images/products/3121/380x218/3121.jpg?v=1649404934",
     "name": "Graveyard Keeper",
+<<<<<<< HEAD
     "category": { "id": "indie", "categories-name": "Indie" },
     "price": 2.71,
     "description": "Graveyard Keeper es el simulador de gestión de cementerios medievales más impreciso de la historia. Construye y gestiona tu propio cementerio mientras encuentras formas de reducir costes, meterte en otras empresas y usar todos los recursos que encuentres. Este es un juego de capitalismo y de hacer lo que haga falta para conseguir un negocio próspero. Aunque también es una historia de amor.",
@@ -239,11 +412,21 @@
     "img3": "https://gaming-cdn.com/images/products/3121/screenshot/graveyard-keeper-pc-mac-juego-steam-wallpaper-2.jpg?v=1649404934",
     "img4": "https://gaming-cdn.com/images/products/3121/screenshot/graveyard-keeper-pc-mac-juego-steam-wallpaper-3.jpg?v=1649404934",
     "img5": "https://gaming-cdn.com/images/products/3121/screenshot/graveyard-keeper-pc-mac-juego-steam-wallpaper-4.jpg?v=1649404934"
+=======
+    "categoria": { "id": "indie", "nombre": "Indie" },
+    "price": 2.71,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 20,
     "img": "https://www.instant-gaming.com/images/products/2198/380x218/2198.jpg?v=1649252899",
     "name": "Hollow Knight",
+<<<<<<< HEAD
     "category": { "id": "indie", "categories-name": "Indie" },
     "price": 9.31,
     "description": "Hollow Knight es una aventura de acción clásica en 2D ambientada en un vasto mundo interconectado. Explora cavernas tortuosas, ciudades antiguas y páramos mortales. Combate contra criaturas corrompidas, haz amistad con extraños insectos y resuelve los antiguos misterios que yacen en el corazón de reino.",
@@ -252,11 +435,21 @@
     "img3": "https://gaming-cdn.com/images/products/2198/screenshot/hollow-knight-pc-mac-juego-steam-wallpaper-2.jpg?v=1649252899",
     "img4": "https://gaming-cdn.com/images/products/2198/screenshot/hollow-knight-pc-mac-juego-steam-wallpaper-4.jpg?v=1649252899",
     "img5": "https://gaming-cdn.com/images/products/2198/screenshot/hollow-knight-pc-mac-juego-steam-wallpaper-3.jpg?v=1649252899"
+=======
+    "categoria": { "id": "indie", "nombre": "Indie" },
+    "price": 9.31,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 21,
     "img": "https://www.instant-gaming.com/images/products/2637/380x218/2637.jpg?v=1649324489",
     "name": "Moonlighter",
+<<<<<<< HEAD
     "category": { "id": "indie", "categories-name": "Indie" },
     "price": 1.83,
     "description": "Hace mucho, durante una excavación arqueológica se descubrió un conjunto de portales. La gente no tardó en darse cuenta de que esos pasadizos ancestrales conectaban con distintas dimensiones y reinos en los que los valientes e intrépidos aventureros podían encontrar majestuosos tesoros. Cerca del lugar de la excavación se fundó una pequeña aldea de comerciantes llamada Rynoka en la que los aventureros podían descansar y vender sus preciadas mercancías. Moonlighter es un juego de acción RPG con elementos rogue-lite. Descubre la rutina diaria de Will, un comerciante aventurero que sueña con convertirse en un héroe.",
@@ -265,11 +458,21 @@
     "img3": "https://gaming-cdn.com/images/products/2637/screenshot/moonlighter-pc-mac-juego-steam-wallpaper-2.jpg?v=1649324489",
     "img4": "https://gaming-cdn.com/images/products/2637/screenshot/moonlighter-pc-mac-juego-steam-wallpaper-2.jpg?v=1649324489",
     "img5": "https://gaming-cdn.com/images/products/2637/screenshot/moonlighter-pc-mac-juego-steam-wallpaper-3.jpg?v=1649324489"
+=======
+    "categoria": { "id": "indie", "nombre": "Indie" },
+    "price": 1.83,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 22,
     "img": "https://www.instant-gaming.com/images/products/14453/380x218/14453.jpg?v=1687448574",
     "name": "Only Up",
+<<<<<<< HEAD
     "category": { "id": "indie", "categories-name": "Indie" },
     "price": 10.46,
     "description": "Eres un joven adolescente Jackie del gueto que quiere salir de la pobreza y emprender un viaje para conocer el mundo y conocerse a sí mismo.",
@@ -278,11 +481,21 @@
     "img3": "https://gaming-cdn.com/images/products/14453/screenshot/only-up-pc-juego-steam-wallpaper-2.jpg?v=1687448574",
     "img4": "https://gaming-cdn.com/images/products/14453/screenshot/only-up-pc-juego-steam-wallpaper-4.jpg?v=1687448574",
     "img5": "https://gaming-cdn.com/images/products/14453/screenshot/only-up-pc-juego-steam-wallpaper-3.jpg?v=1687448574"
+=======
+    "categoria": { "id": "indie", "nombre": "Indie" },
+    "price": 10.46,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 23,
     "img": "https://www.instant-gaming.com/images/products/1767/380x218/1767.jpg?v=1608049517",
     "name": "Stardew Valley",
+<<<<<<< HEAD
     "category": { "id": "indie", "categories-name": "Indie" },
     "price": 15.08,
     "description": "Stardew Valley es un juego que permite a los jugadores alejarse del ajetreo y el bullicio de su vida diaria, ya sea en la escuela o en el trabajo, y ver cómo es hacerse cargo de una granja un poco deteriorada, trabajar para cosechar, recaudar dinero, hacer manualidades para los vecinos y mucho más. Este juego de simulación de granja es un RPG de acción, aunque la acción es muy relajada y está más orientada a la agricultura, en lugar de la acción de batalla de un RPG más clásico.",
@@ -291,11 +504,21 @@
     "img3": "https://gaming-cdn.com/images/products/1767/screenshot/juego-steam-stardew-valley-wallpaper-2.jpg?v=1608049517",
     "img4": "https://gaming-cdn.com/images/products/1767/screenshot/juego-steam-stardew-valley-wallpaper-3.jpg?v=1608049517",
     "img5": "https://gaming-cdn.com/images/products/1767/screenshot/juego-steam-stardew-valley-wallpaper-4.jpg?v=1608049517"
+=======
+    "categoria": { "id": "indie", "nombre": "Indie" },
+    "price": 15.08,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 24,
     "img": "https://www.instant-gaming.com/images/products/7381/380x218/7381.jpg?v=1674746133",
     "name": "Traveller Rest",
+<<<<<<< HEAD
     "category": { "id": "indie", "categories-name": "Indie" },
     "price": 9.46,
     "description": "Travellers Rest es un juego de simulación en el que fabricas tu propia cerveza, llevas una granja y gestionas relaciones. Eres un tabernero, y tu objetivo es transformar una taberna vieja en un sitio social lleno de gente. Basándose en un escenario de fantasía muy alegre. Travellers Rest es el hogar donde gente se conocerá, donde se podrá explorar y encontrar magia antigua. ¡En tu viaje descubrirás cosas que mezclar, plantar, cocinar y construir para crear tu taberna perfecta!",
@@ -304,11 +527,21 @@
     "img3": "https://gaming-cdn.com/images/products/7381/screenshot/travellers-rest-pc-juego-steam-wallpaper-2.jpg?v=1674746133",
     "img4": "https://gaming-cdn.com/images/products/7381/screenshot/travellers-rest-pc-juego-steam-wallpaper-3.jpg?v=1674746133",
     "img5": "https://gaming-cdn.com/images/products/7381/screenshot/travellers-rest-pc-juego-steam-wallpaper-5.jpg?v=1674746133"
+=======
+    "categoria": { "id": "indie", "nombre": "Indie" },
+    "price": 9.46,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 25,
     "img": "https://www.instant-gaming.com/images/products/7119/380x218/7119.jpg?v=1683636493",
     "name": "Valheim",
+<<<<<<< HEAD
     "category": { "id": "indie", "categories-name": "Indie" },
     "price": 18.94,
     "description": "Un guerrero muerto en batalla, las Valquirias llevaron su alma a Valheim, el décimo mundo nórdico. Rodeado de criaturas del caos y antiguos enemigos de los dioses, eres el guardián más joven del purgatorio primordial, encargado de matar a los viejos rivales de Odín y poner orden en Valheim. Tus pruebas comienzan en el pacífico centro desarmado de Valheim, pero los dioses recompensan a los valientes y la gloria te aguarda. Aventúrate a través de bosques imponentes y montañas cubiertas de nieve, explora y recolecta materiales valiosos para crear armas más letales, armaduras más resistentes, fortalezas vikingas y puestos de avanzadilla. Construye un poderoso barco y navega por los grandes océanos en busca de tierras exóticas... pero ten cuidado de navegar demasiado lejos...",
@@ -317,12 +550,22 @@
     "img3": "https://gaming-cdn.com/images/products/7119/screenshot/valheim-pc-mac-juego-steam-wallpaper-2.jpg?v=1683636493",
     "img4": "https://gaming-cdn.com/images/products/7119/screenshot/valheim-pc-mac-juego-steam-wallpaper-3.jpg?v=1683636493",
     "img5": "https://gaming-cdn.com/images/products/7119/screenshot/valheim-pc-mac-juego-steam-wallpaper-4.jpg?v=1683636493"
+=======
+    "categoria": { "id": "indie", "nombre": "Indie" },
+    "price": 18.94,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
 
   {
     "id": 26,
     "img": "https://www.instant-gaming.com/images/products/4085/380x218/4085.jpg?v=1657267708",
     "name": "Assasin's Creed Odyssey",
+<<<<<<< HEAD
     "category": { "id": "rpg", "categories-name": "RPG" },
     "price": 35.63,
     "description": "Elige tu destino en Assassin's Creed Odyssey.Pasa de la marginación a la gloria embarcándote en una odisea para descubrir los secretos de tu pasado y cambiar el destino de la antigua Grecia.Recorre frondosos bosques, islas volcánicas y ciudades bulliciosas en un viaje de exploración y encuentros en un mundo en guerra forjado por Dioses y hombres.Tus decisiones influirán en el devenir de tu odisea. Tu juego puede tener distintos finales gracias al nuevo sistema de diálogos y a las decisiones que tomes. Personaliza tu equipo, el barco y tus habilidades especiales para convertirte en leyenda. Demuestra tus habilidades bélicas en batallas a gran escala entre Atenas y Esparta con cientos de soldados. Embiste y ábrete paso a través de flotas enteras en las batallas navales del mar Egeo.",
@@ -331,11 +574,21 @@
     "img3": "https://gaming-cdn.com/images/products/4085/screenshot/assassin-s-creed-odyssey-ultimate-edition-xbox-one-xbox-series-x-s-ultimate-edition-xbox-one-xbox-series-x-s-juego-microsoft-store-wallpaper-2.jpg?v=1657267708",
     "img4": "https://gaming-cdn.com/images/products/4085/screenshot/assassin-s-creed-odyssey-ultimate-edition-xbox-one-xbox-series-x-s-ultimate-edition-xbox-one-xbox-series-x-s-juego-microsoft-store-wallpaper-3.jpg?v=1657267708",
     "img5": "https://gaming-cdn.com/images/products/4085/screenshot/assassin-s-creed-odyssey-ultimate-edition-xbox-one-xbox-series-x-s-ultimate-edition-xbox-one-xbox-series-x-s-juego-microsoft-store-wallpaper-4.jpg?v=1657267708"
+=======
+    "categoria": { "id": "rpg", "nombre": "RPG" },
+    "price": 35.63,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 27,
     "img": "https://www.instant-gaming.com/images/products/13688/380x218/13688.jpg?v=1683291981",
     "name": "Dredge",
+<<<<<<< HEAD
     "category": { "id": "rpg", "categories-name": "RPG" },
     "price": 19.38,
     "description": "Ponte al mando de tu trainera de pesca y explora una colección de islas remotas y las profundidades que las rodean para ver qué yace allí debajo. Vende lo que pesques a los lugareños y completa misiones para saber más sobre el turbulento pasado de cada zona. Potencia tu barca con equipamiento mejorado y navega por tierras lejanas, pero ten en cuenta el tiempo.... puede que no te guste lo que encuentres en la oscuridad...",
@@ -344,11 +597,21 @@
     "img3": "https://gaming-cdn.com/images/products/13688/screenshot/dredge-pc-juego-steam-wallpaper-2.jpg?v=1683291981",
     "img4": "https://gaming-cdn.com/images/products/13688/screenshot/dredge-pc-juego-steam-wallpaper-3.jpg?v=1683291981",
     "img5": "https://gaming-cdn.com/images/products/13688/screenshot/dredge-pc-juego-steam-wallpaper-4.jpg?v=1683291981"
+=======
+    "categoria": { "id": "rpg", "nombre": "RPG" },
+    "price": 19.38,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 28,
     "img": "https://www.instant-gaming.com/images/products/1084/380x218/1084.jpg?v=1650481900",
     "name": "Far Cry Primal",
+<<<<<<< HEAD
     "category": { "id": "rpg", "categories-name": "RPG" },
     "price": 7.49,
     "description": "La aclamada serie Far Cry ha pasado por el trópico y el Himalaya y ahora entra en la era de la lucha por la supervivencia de la raza humana con su innovador mundo abierto, bestias enormes, entornos impactantes y encuentros salvajes impredecibles. Bienvenido a la Edad de Piedra, una época de peligros extremos y aventuras sin límite. Cuando los mamuts gigantes y los tigres dientes de sable dominaban la Tierra y la humanidad estaba en la cola de la cadena alimentaria. Como último superviviente de tu grupo de caza, aprenderás a crear un arsenal mortífero, a repeler feroces depredadores y a superar en ingenio a las tribus enemigas para conquistar la tierra de Oros y convertirte en el superdepredador.",
@@ -357,6 +620,15 @@
     "img3": "https://gaming-cdn.com/images/products/1084/screenshot/far-cry-primal-pc-juego-ubisoft-connect-wallpaper-2.jpg?v=1650481900",
     "img4": "https://gaming-cdn.com/images/products/1084/screenshot/far-cry-primal-pc-juego-ubisoft-connect-wallpaper-3.jpg?v=1650481900",
     "img5": "https://gaming-cdn.com/images/products/1084/screenshot/far-cry-primal-pc-juego-ubisoft-connect-wallpaper-4.jpg?v=1650481900"
+=======
+    "categoria": { "id": "rpg", "nombre": "RPG" },
+    "price": 7.49,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 29,
@@ -375,6 +647,7 @@
     "id": 30,
     "img": "https://www.instant-gaming.com/images/products/1916/380x218/1916.jpg?v=1666020928",
     "name": "Greedfall",
+<<<<<<< HEAD
     "category": { "id": "rpg", "categories-name": "RPG" },
     "price": 4.13,
     "description": "GreedFall es un RPG de acción ambientado en una realidad fantástica del siglo XVII. En ella, el mundo se ha sobrepoblado y se encuentra terriblemente contaminado, lo que ha desencadenado una espantosa pandemia, conocida como la peste de Malichor. Como consecuencia de esta enfermedad mortal e incurable, el mundo se ha visto diezmado, y sus pocos sobrevivientes se hunden cada vez más en la desesperación.",
@@ -383,11 +656,21 @@
     "img3": "https://gaming-cdn.com/images/products/1916/screenshot/greedfall-pc-juego-steam-wallpaper-2.jpg?v=1666020928",
     "img4": "https://gaming-cdn.com/images/products/1916/screenshot/greedfall-pc-juego-steam-wallpaper-4.jpg?v=1666020928",
     "img5": "https://gaming-cdn.com/images/products/1916/screenshot/greedfall-pc-juego-steam-wallpaper-5.jpg?v=1666020928."
+=======
+    "categoria": { "id": "rpg", "nombre": "RPG" },
+    "price": 4.13,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 31,
     "img": "https://www.instant-gaming.com/images/products/13495/380x218/13495.jpg?v=1676052772",
     "name": "Hogwarts Legacy",
+<<<<<<< HEAD
     "category": { "id": "rpg", "categories-name": "RPG" },
     "price": 60.59,
     "description": "Hogwarts Legacy es un RPG de acción en un mundo abierto ambientado en el universo de los libros de Harry Potter. Embárcate en un viaje que te llevará a lugares nuevos y ya conocidos, y en el que podrás descubrir animales fantásticos, personalizar a tu personaje, elaborar pociones, dominar hechizos, mejorar tus habilidades y convertirte en la bruja o el mago que quieras ser.",
@@ -396,11 +679,21 @@
     "img3": "https://gaming-cdn.com/images/products/13495/screenshot/hogwarts-legacy-pc-juego-steam-latin-america-wallpaper-2.jpg?v=1676052772",
     "img4": "https://gaming-cdn.com/images/products/13495/screenshot/hogwarts-legacy-pc-juego-steam-latin-america-wallpaper-4.jpg?v=1676052772",
     "img5": "https://gaming-cdn.com/images/products/13495/screenshot/hogwarts-legacy-pc-juego-steam-latin-america-wallpaper-5.jpg?v=1676052772"
+=======
+    "categoria": { "id": "rpg", "nombre": "RPG" },
+    "price": 60.59,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 32,
     "img": "https://www.instant-gaming.com/images/products/761/380x218/761.jpg?v=1683808781",
     "name": "Mount and Blade II",
+<<<<<<< HEAD
     "category": { "id": "rpg", "categories-name": "RPG" },
     "price": 24.58,
     "description": "Mount and Blade II: Bannerlord para PC es un juego de rol de acción medieval, el tercero de la saga y la segunda entrega de una serie que está formada por el primer juego completo Mount and Blade, y un pack de expansión llamado Mount and Blade: Warband. Bannerlord cambia la acción a un período de tiempo aún más temprano, el Período de Migración que se extendió entre 375dC y 586dC, unos doscientos años antes de los eventos de los juegos anteriores.",
@@ -409,10 +702,20 @@
     "img3": "https://gaming-cdn.com/images/products/761/screenshot/mount-blade-ii-bannerlord-pc-juego-steam-wallpaper-2.jpg?v=1683808781",
     "img4": "https://gaming-cdn.com/images/products/761/screenshot/mount-blade-ii-bannerlord-pc-juego-steam-wallpaper-3.jpg?v=1683808781",
     "img5": "https://gaming-cdn.com/images/products/761/screenshot/mount-blade-ii-bannerlord-pc-juego-steam-wallpaper-5.jpg?v=1683808781"
+=======
+    "categoria": { "id": "rpg", "nombre": "RPG" },
+    "price": 24.58,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 33,
     "img": "https://www.instant-gaming.com/images/products/8353/380x218/8353.jpg?v=1676541625",
+<<<<<<< HEAD
     "name": "Wild West Dinasty",
     "category": { "id": "rpg", "categories-name": "RPG" },
     "price": 15.41,
@@ -422,12 +725,23 @@
     "img3": "https://gaming-cdn.com/images/products/8353/screenshot/wild-west-dynasty-pc-juego-steam-wallpaper-2.jpg?v=1676541625",
     "img4": "https://gaming-cdn.com/images/products/8353/screenshot/wild-west-dynasty-pc-juego-steam-wallpaper-5.jpg?v=1676541625",
     "img5": "https://gaming-cdn.com/images/products/8353/screenshot/wild-west-dynasty-pc-juego-steam-wallpaper-3.jpg?v=1676541625"
+=======
+    "name": "Wild West",
+    "categoria": { "id": "rpg", "nombre": "RPG" },
+    "price": 15.41,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
 
   {
     "id": 34,
     "img": "https://www.instant-gaming.com/images/products/11606/380x218/11606.jpg?v=1655304261",
     "name": "Builder Simulator",
+<<<<<<< HEAD
     "category": { "id": "simulador", "categories-name": "Simulador" },
     "price": 1.64,
     "description": "Builder Simulator es el juego perfecto para aquellos que quieren construir una casa, desde cero, ladrillo a ladrillo. En fácil, el juego te guiará y enseñará mostrándote instrucciones completas, pero en difícil no recibirás ayuda; en lugar de eso, confía en tus habilidades de construcción y hazlo todo tú mismo.",
@@ -436,11 +750,21 @@
     "img3": "https://gaming-cdn.com/images/products/11606/screenshot/builder-simulator-pc-juego-steam-wallpaper-2.jpg?v=1655304261",
     "img4": "https://gaming-cdn.com/images/products/11606/screenshot/builder-simulator-pc-juego-steam-wallpaper-3.jpg?v=1655304261",
     "img5": "https://gaming-cdn.com/images/products/11606/screenshot/builder-simulator-pc-juego-steam-wallpaper-4.jpg?v=1655304261"
+=======
+    "categoria": { "id": "simulator", "nombre": "Simulador" },
+    "price": 1.64,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 35,
     "img": "https://www.instant-gaming.com/images/products/519/380x218/519.jpg?v=1662469928",
     "name": "Cities Skylines",
+<<<<<<< HEAD
     "category": { "id": "simulador", "categories-name": "Simulador" },
     "price": 41.19,
     "description": "Cities: Skylines presenta un enfoque moderno para el clásico simulador urbano. Introduce nuevos elementos a la mecánica de juego para plasmar la emoción y las complicaciones de mantener una ciudad de verdad, ampliando al mismo tiempo algunos de los temas ya conocidos de la experiencia del desarrollo urbanístico.",
@@ -449,11 +773,21 @@
     "img3": "https://gaming-cdn.com/images/products/519/screenshot/cities-skylines-pc-mac-juego-steam-wallpaper-2.jpg?v=1662469928",
     "img4": "https://gaming-cdn.com/images/products/519/screenshot/cities-skylines-pc-mac-juego-steam-wallpaper-3.jpg?v=1662469928",
     "img5": "https://gaming-cdn.com/images/products/519/screenshot/cities-skylines-pc-mac-juego-steam-wallpaper-5.jpg?v=1662469928"
+=======
+    "categoria": { "id": "simulator", "nombre": "Simulador" },
+    "price": 41.19,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 36,
     "img": "https://www.instant-gaming.com/images/products/8676/380x218/8676.jpg?v=1683617808",
     "name": "Farming Simulator 2022",
+<<<<<<< HEAD
     "category": { "id": "simulador", "categories-name": "Simulador" },
     "price": 23.37,
     "description": "Farming Simulator 22 es, como se puede adivinar por el nombre, un juego de simulación agrícola en una serie que comprende alrededor de catorce ediciones, distribuidas tanto para PC como para dispositivos móviles. El jugador, ese eres tú, es un agricultor, y tu objetivo es mantener y hacer crecer la granja para que sea un éxito.",
@@ -462,11 +796,21 @@
     "img3": "https://gaming-cdn.com/images/products/8676/screenshot/farming-simulator-22-pc-mac-juego-steam-wallpaper-2.jpg?v=1683617808",
     "img4": "https://gaming-cdn.com/images/products/8676/screenshot/farming-simulator-22-pc-mac-juego-steam-wallpaper-3.jpg?v=1683617808",
     "img5": "https://gaming-cdn.com/images/products/8676/screenshot/farming-simulator-22-pc-mac-juego-steam-wallpaper-5.jpg?v=1683617808"
+=======
+    "categoria": { "id": "simulator", "nombre": "Simulador" },
+    "price": 23.37,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 37,
     "img": "https://www.instant-gaming.com/images/products/10545/380x218/10545.jpg?v=1665157647",
     "name": "Fifa 2023",
+<<<<<<< HEAD
     "category": { "id": "simulador", "categories-name": "Simulador" },
     "price": 24.24,
     "description": "FIFA 2 es el último de una inmensa línea de juegos basados en fútbol. Desde sus humildes comienzos en 1993 con el lanzamiento de FIFA International Soccer, esta franquicia de juegos se ha producido en más de 18 idiomas en 51 países, vendiendo más de 325 millones de copias, un récord impresionante para cualquier serie de videojuegos.",
@@ -475,11 +819,21 @@
     "img3": "https://gaming-cdn.com/images/products/10545/screenshot/fifa-23-pc-juego-origin-wallpaper-2.jpg?v=1665157647",
     "img4": "https://gaming-cdn.com/images/products/10545/screenshot/fifa-23-pc-juego-origin-wallpaper-4.jpg?v=1665157647",
     "img5": "https://gaming-cdn.com/images/products/10545/screenshot/fifa-23-pc-juego-origin-wallpaper-3.jpg?v=1665157647"
+=======
+    "categoria": { "id": "simulator", "nombre": "Simulador" },
+    "price": 24.24,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 38,
     "img": "https://www.instant-gaming.com/images/products/8823/380x218/8823.jpg?v=1675851971",
     "name": "Going Medieval",
+<<<<<<< HEAD
     "category": { " id": "simulador", "categories-name": "Simulador" },
     "price": 7.78,
     "description": "Going Medieval para PC es un juego de simulación de construcción de mundos. Como el título insinúa, está ambientado en la época medieval, poco después de 1346, cuando una terrible plaga azotó la región. Tu trabajo es construir una fortaleza y mantener a tus aldeanos felices y saludables.",
@@ -488,11 +842,21 @@
     "img3": "https://gaming-cdn.com/images/products/8823/screenshot/going-medieval-pc-juego-steam-wallpaper-2.jpg?v=1675851971",
     "img4": "https://gaming-cdn.com/images/products/8823/screenshot/going-medieval-pc-juego-steam-wallpaper-4.jpg?v=1675851971",
     "img5": "https://gaming-cdn.com/images/products/8823/screenshot/going-medieval-pc-juego-steam-wallpaper-3.jpg?v=1675851971"
+=======
+    "categoria": { " id": "simulator", "nombre": "Simulador" },
+    "price": 7.78,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 39,
     "img": "https://www.instant-gaming.com/images/products/9005/380x218/9005.jpg?v=1652869178",
     "name": "Jurassic World Evolution 2",
+<<<<<<< HEAD
     "category": { " id": "simulador", "categories-name": "Simulador" },
     "price": 13.17,
     "description": "Jurassic World Evolution 2 es un juego de simulación de gestión y estrategia, también llamado un ''juego de gestión de desastre'' según los creadores, y es comprensible, dada la premisa arriesgada de la franquicia. Este juego es la secuela de Jurassic World Evolution y una continuación de los eventos que suceden en la película Jurassic World: Fallen Kingdom.",
@@ -501,11 +865,21 @@
     "img3": "https://gaming-cdn.com/images/products/9005/screenshot/jurassic-world-evolution-2-pc-juego-steam-wallpaper-2.jpg?v=1652869178",
     "img4": "https://gaming-cdn.com/images/products/9005/screenshot/jurassic-world-evolution-2-pc-juego-steam-wallpaper-4.jpg?v=1652869178",
     "img5": "https://gaming-cdn.com/images/products/9005/screenshot/jurassic-world-evolution-2-pc-juego-steam-wallpaper-3.jpg?v=1652869178"
+=======
+    "categoria": { " id": "simulator", "nombre": "Simulador" },
+    "price": 13.17,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 40,
     "img": "https://www.instant-gaming.com/images/products/5762/380x218/5762.jpg?v=1666194242",
     "name": "Planet Zoo",
+<<<<<<< HEAD
     "category": { "id": "simulador", "categories-name": "Simulador" },
     "price": 9.07,
     "description": "Crea un mundo de vida salvaje en Planet Zoo. De los desarrolladores de Planet Coaster y Zoo Tycoon, llega el simulador de zoológicos definitivo, con auténticos animales vivos que observan, sienten y exploran el mundo que tú generes a su alrededor. Vive una campaña por todo el mundo o deja volar tu imaginación con la libertad del modo Creación. Crea hábitats únicos y paisajes descomunales, toma decisiones importantes e influyentes, y cría tus animales durante la construcción y gestión de los zoológicos más salvajes del mundo.",
@@ -514,11 +888,21 @@
     "img3": "https://gaming-cdn.com/images/products/5762/screenshot/planet-zoo-deluxe-edition-deluxe-edition-pc-juego-steam-wallpaper-2.jpg?v=1666194242",
     "img4": "https://gaming-cdn.com/images/products/5762/screenshot/planet-zoo-deluxe-edition-deluxe-edition-pc-juego-steam-wallpaper-3.jpg?v=1666194242",
     "img5": "https://gaming-cdn.com/images/products/5762/screenshot/planet-zoo-deluxe-edition-deluxe-edition-pc-juego-steam-wallpaper-4.jpg?v=1666194242"
+=======
+    "categoria": { "id": "simulator", "nombre": "Simulador" },
+    "price": 9.07,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 41,
     "img": "https://www.instant-gaming.com/images/products/965/380x218/965.jpg?v=1647355077",
     "name": "Prison Architech",
+<<<<<<< HEAD
     "category": { "id": "simulador", "categories-name": "Simulador" },
     "price": 1.76,
     "description": "Bienvenidos, alcaides! Solo los alcaides más despiadados pueden contener a los criminales más peligrosos. Diseña al dedillo tu penitenciaría en Prison Architect.",
@@ -527,12 +911,22 @@
     "img3": "https://gaming-cdn.com/images/products/965/screenshot/prison-architect-pc-mac-juego-steam-wallpaper-2.jpg?v=1647355077",
     "img4": "https://gaming-cdn.com/images/products/965/screenshot/prison-architect-pc-mac-juego-steam-wallpaper-3.jpg?v=1647355077",
     "img5": "https://gaming-cdn.com/images/products/965/screenshot/prison-architect-pc-mac-juego-steam-wallpaper-5.jpg?v=1647355077"
+=======
+    "categoria": { "id": "simulator", "nombre": "Simulador" },
+    "price": 1.76,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
 
   {
     "id": 42,
     "img": "https://www.instant-gaming.com/images/products/1028/380x218/1028.jpg?v=1648472552",
     "name": "7 Days To Die",
+<<<<<<< HEAD
     "category": { "id": "survival", "categories-name": "Survival" },
     "price": 3.92,
     "description": "7 Days to Die comenzó su andadura como un juego de supervivencia de terror en acceso temprano que logró alcanzar su objetivo de financiación y llegó al mercado como un producto completo y pulido. En el juego, el jugador debe sobrevivir no solo a los enemigos y al combate, sino simplemente a vivir: encontrar comida, agua, refugio, etc., son vitales para la existencia continua del personaje.",
@@ -541,11 +935,21 @@
     "img3": "https://gaming-cdn.com/images/products/1028/screenshot/7-days-to-die-pc-mac-juego-steam-wallpaper-2.jpg?v=1648472552",
     "img4": "https://gaming-cdn.com/images/products/1028/screenshot/7-days-to-die-pc-mac-juego-steam-wallpaper-4.jpg?v=1648472552",
     "img5": "https://gaming-cdn.com/images/products/1028/screenshot/7-days-to-die-pc-mac-juego-steam-wallpaper-3.jpg?v=1648472552"
+=======
+    "categoria": { "id": "survival", "nombre": "Survival" },
+    "price": 3.92,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 43,
     "img": "https://www.instant-gaming.com/images/products/5639/380x218/5639.jpg?v=1683793648",
     "name": "Green Hell",
+<<<<<<< HEAD
     "category": { "id": "survival", "categories-name": "Survival" },
     "price": 9.97,
     "description": "Green Hell es un juego de supervivencia de mundo abierto, donde el jugador debe sobrevivir y tratar de prosperar, en una ubicación inusual para estos juegos que generalmente se desarrollan en desiertos o paisajes áridos (lugares donde la supervivencia es difícil debido a la falta de recursos). Este juego te lleva directamente a las orillas del río Amazonas, con todos los peligros que eso conlleva: plantas venenosas, agua no potable, criaturas peligrosas y nativos que pueden o no dar la bienvenida a intrusos en sus dominios.",
@@ -554,11 +958,21 @@
     "img3": "https://gaming-cdn.com/images/products/5639/screenshot/green-hell-pc-juego-steam-wallpaper-2.jpg?v=1683793648",
     "img4": "https://gaming-cdn.com/images/products/5639/screenshot/green-hell-pc-juego-steam-wallpaper-3.jpg?v=1683793648",
     "img5": "https://gaming-cdn.com/images/products/5639/screenshot/green-hell-pc-juego-steam-wallpaper-5.jpg?v=1683793648"
+=======
+    "categoria": { "id": "survival", "nombre": "Survival" },
+    "price": 9.97,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 44,
     "img": "https://www.instant-gaming.com/images/products/442/380x218/442.jpg?v=1674156218",
     "name": "Minecraft",
+<<<<<<< HEAD
     "category": { "id": "survival", "categories-name": "Survival" },
     "price": 25.33,
     "description": "Minecraft es el videojuego más vendido de todos los tiempos. Solo eso debería ser suficiente para convencerte. Pero veamos un poco más de información acerca de por qué deberías empezar a disfrutar de este juego ahora mismo. Se trata de un juego de tipo ‘sandbox’ en el que los jugadores deben minar, construir y fabricar su propio mundo ideal.",
@@ -567,11 +981,21 @@
     "img3": "https://gaming-cdn.com/images/products/442/screenshot/minecraft-java-y-bedrock-edition-pc-juego-wallpaper-2.jpg?v=1674156218",
     "img4": "https://gaming-cdn.com/images/products/442/screenshot/minecraft-java-y-bedrock-edition-pc-juego-wallpaper-4.jpg?v=1674156218",
     "img5": "https://gaming-cdn.com/images/products/442/screenshot/minecraft-java-y-bedrock-edition-pc-juego-wallpaper-3.jpg?v=1674156218"
+=======
+    "categoria": { "id": "survival", "nombre": "Survival" },
+    "price": 25.33,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 45,
     "img": "https://www.instant-gaming.com/images/products/2627/380x218/2627.jpg?v=1614867626",
     "name": "Raft",
+<<<<<<< HEAD
     "category": { "id": "survival", "categories-name": "Survival" },
     "price": 9.01,
     "description": "¡Solo o con amigos, tu misión es sobrevivir a una aventura oceánica épica a través de un mar peligroso! ¡Reúne escombros para sobrevivir, expande tu balsa y navega hacia islas olvidadas y peligrosas!",
@@ -580,11 +1004,21 @@
     "img3": "https://gaming-cdn.com/images/products/2627/screenshot/juego-steam-raft-wallpaper-2.jpg?v=1614867626",
     "img4": "https://gaming-cdn.com/images/products/2627/screenshot/juego-steam-raft-wallpaper-3.jpg?v=1614867626",
     "img5": "https://gaming-cdn.com/images/products/2627/screenshot/juego-steam-raft-wallpaper-4.jpg?v=1614867626"
+=======
+    "categoria": { "id": "survival", "nombre": "Survival" },
+    "price": 9.01,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 46,
     "img": "https://www.instant-gaming.com/images/products/6329/380x218/6329.jpg?v=1683647602",
     "name": "Resident Evil Village",
+<<<<<<< HEAD
     "category": { "id": "survival", "categories-name": "Survival" },
     "price": 13.44,
     "description": "Resident Evil Village es un juego de terror de supervivencia. Esta encarnación es el décimo lanzamiento principal de la franquicia y, sorprendentemente, el 26 , si se incluye todos los spin-offs y remakes, lo que convierte a Resident Evil en una de las franquicias más prolíficas que existen. Resident Evil Village a veces se llama Resident Evil 8: Village y los desarrolladores han descubierto que pueden crear un rompecabezas oculto dentro del título, que se representa con números romanos para ocho VIII en lugar de Vill en Village. ¡Interesante!",
@@ -593,11 +1027,21 @@
     "img3": "https://gaming-cdn.com/images/products/6329/screenshot/resident-evil-village-pc-juego-steam-wallpaper-2.jpg?v=1683647602",
     "img4": "https://gaming-cdn.com/images/products/6329/screenshot/resident-evil-village-pc-juego-steam-wallpaper-3.jpg?v=1683647602",
     "img5": "https://gaming-cdn.com/images/products/6329/screenshot/resident-evil-village-pc-juego-steam-wallpaper-4.jpg?v=1683647602"
+=======
+    "categoria": { "id": "survival", "nombre": "Survival" },
+    "price": 13.44,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 47,
     "img": "https://www.instant-gaming.com/images/products/5953/380x218/5953.jpg?v=1677227322",
     "name": "Sons Of The Forest",
+<<<<<<< HEAD
     "category": { "id": "survival", "categories-name": "Survival" },
     "price": 50.99,
     "description": "Una experiencia completamente nueva de los creadores de 'El Bosque'. Enviado a buscar a un multimillonario desaparecido en una isla remota, te encuentras en un infierno infestado de caníbales. Crea, construye y lucha por sobrevivir, solo o con amigos, en este nuevo y aterrador simulador de terror y supervivencia de mundo abierto",
@@ -606,11 +1050,21 @@
     "img3": "https://gaming-cdn.com/images/products/5953/screenshot/sons-of-the-forest-pc-juego-steam-wallpaper-2.jpg?v=1677227322",
     "img4": "https://gaming-cdn.com/images/products/5953/screenshot/sons-of-the-forest-pc-juego-steam-wallpaper-4.jpg?v=1677227322",
     "img5": "https://gaming-cdn.com/images/products/5953/screenshot/sons-of-the-forest-pc-juego-steam-wallpaper-5.jpg?v=1677227322"
+=======
+    "categoria": { "id": "survival", "nombre": "Survival" },
+    "price": 50.99,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 48,
     "img": "https://www.instant-gaming.com/images/products/932/380x218/932.jpg?v=1683791474",
     "name": "Terraria",
+<<<<<<< HEAD
     "category": { "id": "survival", "categories-name": "Survival" },
     "price": 7.57,
     "description": "Terraria es un juego sandbox de exploración 2D en el que el jugador busca diseñar el mundo de acuerdo con sus propias elecciones y sus habilidades en combate, elaboración y recolección de recursos también.",
@@ -619,11 +1073,21 @@
     "img3": "https://gaming-cdn.com/images/products/932/screenshot/terraria-pc-mac-juego-steam-wallpaper-2.jpg?v=1683791474",
     "img4": "https://gaming-cdn.com/images/products/932/screenshot/terraria-pc-mac-juego-steam-wallpaper-3.jpg?v=1683791474",
     "img5": "https://gaming-cdn.com/images/products/932/screenshot/terraria-pc-mac-juego-steam-wallpaper-4.jpg?v=1683791474"
+=======
+    "categoria": { "id": "survival", "nombre": "Survival" },
+    "price": 7.57,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   },
   {
     "id": 49,
     "img": "https://www.instant-gaming.com/images/products/642/380x218/642.jpg?v=1662538631",
     "name": "The Forest",
+<<<<<<< HEAD
     "category": { "id": "survival", "categories-name": "Survival" },
     "price": 6.56,
     "description": "Como único superviviente de un accidente de avión de pasajeros, te encuentras en un bosque misterioso luchando por sobrevivir contra una sociedad de mutantes caníbales. Construye, explora y sobrevive en este aterrador simulador de terror y supervivencia en primera persona.",
@@ -632,5 +1096,14 @@
     "img3": "https://gaming-cdn.com/images/products/642/screenshot/the-forest-pc-juego-steam-wallpaper-2.jpg?v=1662538631",
     "img4": "https://gaming-cdn.com/images/products/642/screenshot/the-forest-pc-juego-steam-wallpaper-3.jpg?v=1662538631",
     "img5": "https://gaming-cdn.com/images/products/642/screenshot/the-forest-pc-juego-steam-wallpaper-4.jpg?v=1662538631"
+=======
+    "categoria": { "id": "survival", "nombre": "Survival" },
+    "price": 6.56,
+    "video":"",
+    "img2":,
+    "img3":,
+    "img4":,
+    "img5":,
+>>>>>>> a92893a2ce45adc800900dd49e6d9c10229c1dea
   }
 ]
