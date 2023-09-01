@@ -1,6 +1,8 @@
 import CartWidget from "../cartWidget/cartWidget";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
+  function categories() {}
   return (
     <div>
       <h1>José Agustín Lorenzatti Nigro</h1>
@@ -11,78 +13,71 @@ const Navbar = () => {
       <nav>
         <ul>
           <li>
-            <button
-              onClick=""
+            <Link
+              to="/"
               className="products-category button-index active"
               id="all"
             >
               Todos los Productos
-            </button>
+            </Link>
           </li>
         </ul>
         <ul className="categories">
           <li>
-            <button
-              onClick=""
+            <Link
               className="products-category button-index"
-              id="action"
+              to="productos/accion"
             >
               Accion
-            </button>
+            </Link>
           </li>
 
           <li>
-            <button
-              onClick=""
+            <Link
               className="products-category button-index"
-              id="strategy"
+              to="productos/estrategia"
             >
               Estrategia
-            </button>
+            </Link>
           </li>
 
           <li>
-            <button
-              onClick=""
+            <Link
               className="products-category button-index"
-              id="indie"
+              to="productos/indie"
             >
               Indie
-            </button>
+            </Link>
           </li>
 
           <li>
-            <button
-              onClick=""
-              className="products-category button-index"
-              id="rpg"
-            >
+            <Link className="products-category button-index" to="productos/rpg">
               RPG
-            </button>
+            </Link>
           </li>
 
           <li>
-            <button
-              onClick=""
+            <Link
               className="products-category button-index"
-              id="simulator"
+              to="productos/simulador"
             >
               Simuladores
-            </button>
+            </Link>
           </li>
 
           <li>
-            <button
-              onClick=""
+            <Link
               className="products-category button-index"
-              id="survival"
+              to="productos/survival"
             >
               Survival
-            </button>
+            </Link>
           </li>
 
           <li>
-            <CartWidget />
+            <Link>
+              <CartWidget />
+            </Link>
           </li>
         </ul>
       </nav>

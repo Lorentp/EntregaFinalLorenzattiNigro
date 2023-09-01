@@ -4,23 +4,26 @@
   background-color: var(--color-orange);
 }
 
-.game-title {
+.product-card-title {
   display: flex;
   justify-content: space-between;
   font-size: 30px;
   font-weight: 1000;
+  color: white;
 }
 
-.button-index {
-  padding: 10px 40px;
+.product-card-depscription-button {
   background-color: var(--color-lightgray);
+  width: max-content;
+  padding: 0.5rem;
+  display: flex;
   border: 1px black solid;
   border-radius: 5px;
   cursor: pointer;
   transition: ease 0.3s;
 }
 
-.button-index:hover {
+.product-card-depscription-button:hover {
   background-color: #ff0000;
-  padding: 10px 60px;
+  padding: 10px 50px;
 }
