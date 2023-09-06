@@ -1,0 +1,32 @@
+.item-count {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.item-count-button,
+.item-count-addcart {
+  margin: 0.5rem;
+  background-color: black;
+  color: white;
+  width: 2rem;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.item-count-addcart {
+  width: auto;
+}
+
+.item-count-button:hover,
+.item-count-addcart:hover {
+  background-color: #ff0000;
+}
+
+.item-count-nostock {
+  color: black;
+}

@@ -1,11 +1,13 @@
+import { Link } from "react-router-dom";
+
 function CartWidget() {
   return (
-    <a>
+    <Link to="/carrito">
       <div className="cart-button">
         🛒
         <span id="number">0</span>
       </div>
-    </a>
+    </Link>
   );
 }
 

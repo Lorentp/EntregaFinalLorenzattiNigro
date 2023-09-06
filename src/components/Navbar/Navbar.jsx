@@ -1,8 +1,7 @@
 import CartWidget from "../cartWidget/cartWidget";
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 const Navbar = () => {
-  function categories() {}
   return (
     <div>
       <h1>José Agustín Lorenzatti Nigro</h1>
@@ -13,71 +12,80 @@ const Navbar = () => {
       <nav>
         <ul>
           <li>
-            <Link
+            <NavLink
+              activeclassname="active"
               to="/"
-              className="products-category button-index active"
-              id="all"
+              className="products-category button-index"
             >
               Todos los Productos
-            </Link>
+            </NavLink>
           </li>
         </ul>
         <ul className="categories">
           <li>
-            <Link
+            <NavLink
               className="products-category button-index"
               to="productos/accion"
+              activeclassname="active"
             >
               Accion
-            </Link>
+            </NavLink>
           </li>
 
           <li>
-            <Link
+            <NavLink
               className="products-category button-index"
               to="productos/estrategia"
+              activeclassname="active"
             >
               Estrategia
-            </Link>
+            </NavLink>
           </li>
 
           <li>
-            <Link
+            <NavLink
               className="products-category button-index"
               to="productos/indie"
+              activeclassname="active"
             >
               Indie
-            </Link>
+            </NavLink>
           </li>
 
           <li>
-            <Link className="products-category button-index" to="productos/rpg">
+            <NavLink
+              className="products-category button-index"
+              to="productos/rpg"
+              activeclassname="active"
+            >
               RPG
-            </Link>
+            </NavLink>
           </li>
 
           <li>
-            <Link
+            <NavLink
               className="products-category button-index"
               to="productos/simulador"
+              activeclassname="active"
             >
               Simuladores
-            </Link>
+            </NavLink>
           </li>
 
           <li>
-            <Link
+            <NavLink
               className="products-category button-index"
+              activeclassname="active"
               to="productos/survival"
             >
               Survival
-            </Link>
+            </NavLink>
           </li>
 
           <li>
-            <Link>
+            <NavLink activeclassname="active">
               <CartWidget />
-            </Link>
+            </NavLink>
           </li>
         </ul>
       </nav>
