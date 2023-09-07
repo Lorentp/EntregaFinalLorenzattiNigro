@@ -32,7 +32,9 @@ const ItemCount = ({ initial, stock }) => {
           +
         </button>
       </div>
-      <button className="item-count-addcart">Agregar al carrito</button>
+      <div className="item-count-stock-button-cart">
+        <button className="item-count-addcart">Agregar al carrito</button>
+      </div>
     </div>
   );
 };

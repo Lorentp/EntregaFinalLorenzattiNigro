@@ -18,6 +18,10 @@
   font-size: 24px;
 }
 
+.item-count-stock-button-cart {
+  display: flex;
+  justify-content: center;
+}
 .item-count-addcart {
   width: auto;
 }
