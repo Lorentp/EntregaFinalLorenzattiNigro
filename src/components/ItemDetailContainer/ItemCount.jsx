@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-const ItemCount = ({ initial, stock }) => {
-  const [counter, setCounter] = useState(1);
+const ItemCount = ({ initial, stock, name }) => {
+  const [counter, setCounter] = useState(initial);
 
   const handleSubstract = () => {
     counter > initial && setCounter(counter - 1);
@@ -9,6 +9,12 @@ const ItemCount = ({ initial, stock }) => {
 
   const handleAdd = () => {
     counter < stock && setCounter(counter + 1);
+  };
+
+  const addOn = () => {
+    alert(
+      "El Producto " + name + " fue agregado al carrito " + counter + " veces"
+    );
   };
 
   if (!stock) {
@@ -33,7 +39,9 @@ const ItemCount = ({ initial, stock }) => {
         </button>
       </div>
       <div className="item-count-stock-button-cart">
-        <button className="item-count-addcart">Agregar al carrito</button>
+        <button onClick={addOn} className="item-count-addcart">
+          Agregar al carrito
+        </button>
       </div>
     </div>
   );
