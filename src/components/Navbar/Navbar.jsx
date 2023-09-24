@@ -83,9 +83,7 @@ const Navbar = () => {
           </li>
 
           <li>
-            <NavLink activeclassname="active">
-              <CartWidget />
-            </NavLink>
+            <CartWidget />
           </li>
         </ul>
       </nav>

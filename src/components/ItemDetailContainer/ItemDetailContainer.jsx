@@ -15,7 +15,7 @@ const ItemDetailContainer = ({ itemId }) => {
 
   return (
     <div>
-      <ItemDetail item={item} />
+      <ItemDetail item={item} initial={1} stock={item.stock} />
     </div>
   );
 };

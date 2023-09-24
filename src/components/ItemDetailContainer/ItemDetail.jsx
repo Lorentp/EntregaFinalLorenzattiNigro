@@ -1,6 +1,20 @@
+import { useContext, useState } from "react";
 import ItemCount from "./ItemCount";
+import { CartContext } from "../../context/CartContext";
 
-const ItemDetail = ({ item }) => {
+const ItemDetail = ({ item, initial, stock }) => {
+  const { cart, addCart } = useContext(CartContext);
+
+  const [quantity, setQuantity] = useState(initial);
+
+  const handleSubstract = () => {
+    quantity > initial && setQuantity(quantity - 1);
+  };
+
+  const handleAdd = () => {
+    quantity < stock && setQuantity(quantity + 1);
+  };
+
   return (
     <div className="products-card">
       <div className="product-detail-main">
@@ -13,9 +27,13 @@ const ItemDetail = ({ item }) => {
           <h5 className="product-detail-title">{item.name}</h5>
           <p className="product-detail-price">U$D {item.price}</p>
           <ItemCount
-            initial={item.initial}
+            handleSubstract={handleSubstract}
+            handleAdd={handleAdd}
+            handleAddCart={() => {
+              addCart(item, quantity);
+            }}
+            quantity={quantity}
             stock={item.stock}
-            name={item.name}
           />
         </div>
       </div>

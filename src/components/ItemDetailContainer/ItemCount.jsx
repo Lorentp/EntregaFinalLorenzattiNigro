@@ -1,22 +1,10 @@
-import { useState } from "react";
-
-const ItemCount = ({ initial, stock, name }) => {
-  const [counter, setCounter] = useState(initial);
-
-  const handleSubstract = () => {
-    counter > initial && setCounter(counter - 1);
-  };
-
-  const handleAdd = () => {
-    counter < stock && setCounter(counter + 1);
-  };
-
-  const addOn = () => {
-    alert(
-      "El Producto " + name + " fue agregado al carrito " + counter + " veces"
-    );
-  };
-
+const ItemCount = ({
+  handleAdd,
+  handleSubstract,
+  handleAddCart,
+  quantity,
+  stock,
+}) => {
   if (!stock) {
     return (
       <div>
@@ -33,13 +21,13 @@ const ItemCount = ({ initial, stock, name }) => {
         <button onClick={handleSubstract} className="item-count-button">
           -
         </button>
-        <p className="item-count-number">{counter}</p>
+        <p className="item-count-number">{quantity}</p>
         <button onClick={handleAdd} className="item-count-button">
           +
         </button>
       </div>
       <div className="item-count-stock-button-cart">
-        <button onClick={addOn} className="item-count-addcart">
+        <button onClick={handleAddCart} className="item-count-addcart">
           Agregar al carrito
         </button>
       </div>

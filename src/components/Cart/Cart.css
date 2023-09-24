@@ -1,0 +1,28 @@
+.cart-product {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem;
+  padding: 1rem 3%;
+  background-color: #ff5400;
+  border-radius: 1rem;
+}
+
+.cart-img {
+  width: 11%;
+}
+
+.cart-product h2,
+h4 {
+  color: white;
+}
+
+.trash-can {
+  color: #ff0000;
+  background-color: #101010;
+  padding: 1rem;
+}
+
+.trash-can:hover {
+  background-color: #ff0000;
+  cursor: point;
+}
