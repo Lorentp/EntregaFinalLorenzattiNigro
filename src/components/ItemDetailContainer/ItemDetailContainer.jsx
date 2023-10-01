@@ -9,7 +9,7 @@ const ItemDetailContainer = ({ itemId }) => {
   const id = useParams().id;
 
   useEffect(() => {
-    const docRef = doc(database, "Products", id);
+    const docRef = doc(database, "products", id);
     getDoc(docRef).then((res) => {
       setItem({ ...res.data(), id: res.id });
     });

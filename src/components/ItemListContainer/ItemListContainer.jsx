@@ -9,7 +9,7 @@ const ItemListContainer = () => {
   const category = useParams().category;
 
   useEffect(() => {
-    const prodRef = collection(database, "Products");
+    const prodRef = collection(database, "products");
     const q = category
       ? query(prodRef, where("category", "==", category))
       : prodRef;

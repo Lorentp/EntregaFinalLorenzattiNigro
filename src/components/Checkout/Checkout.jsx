@@ -15,7 +15,7 @@ const Checkout = () => {
       total: totalPrice(),
     };
 
-    const orderRef = collection(database, "Pedidos");
+    const orderRef = collection(database, "orders");
     addDoc(orderRef, order).then((doc) => {
       setOrderId(doc.id);
       emptyCart();
