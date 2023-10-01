@@ -1,15 +1,17 @@
 import { useEffect, useState } from "react";
-import { getDataDescription } from "../../helper/data";
 import ItemDetail from "./ItemDetail";
 import { useParams } from "react-router-dom";
+import { doc, getDoc } from "firebase/firestore";
+import { database } from "../../firebase/config";
 
 const ItemDetailContainer = ({ itemId }) => {
   const [item, setItem] = useState([]);
   const id = useParams().id;
 
   useEffect(() => {
-    getDataDescription(Number(id)).then((res) => {
-      setItem(res);
+    const docRef = doc(database, "Products", id);
+    getDoc(docRef).then((res) => {
+      setItem({ ...res.data(), id: res.id });
     });
   }, []);
 
