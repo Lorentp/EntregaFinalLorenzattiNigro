@@ -6,7 +6,9 @@ import { Cart } from "./Cart";
 const CartContainer = () => {
   const { cart, totalPrice, emptyCart,  } = useContext(CartContext);
 
- 
+    if (cart.lenght === 0) {
+      return ( <h2>Tu Carrito esta vacio</h2>) 
+    }
 
     return (
       <>
@@ -25,9 +27,6 @@ const CartContainer = () => {
     </>
   );
 
-  
-
-  
 };
 
 export default CartContainer;

@@ -30,6 +30,8 @@ export const CartProvider = ({ children }) => {
     setCart([]);
   };
 
+  const deleteProd = (pid) => setCart(cart.filter(prod => prod.id !== pid))
+
   useEffect(() => {
     localStorage.setItem("cart", JSON.stringify(cart));
   }, [cart]);
@@ -37,7 +39,7 @@ export const CartProvider = ({ children }) => {
   
   return (
     <CartContext.Provider
-      value={{ cart, addCart, cartNumber, totalPrice, emptyCart }}
+      value={{ cart, addCart, cartNumber, totalPrice, emptyCart, deleteProd }}
     >
       {children}
     </CartContext.Provider>
