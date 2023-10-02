@@ -4,14 +4,15 @@ import "./components/ItemListContainer/ItemListContainer.css";
 import "./components/CartWidget/CartWidget.css";
 import "./components/ItemDetailContainer/ItemDetailContainer.css";
 import "./components/ItemDetailContainer/ItemCount.css";
+import "./components/Checkout/Checkout.css";
 import NavBar from "./components/NavBar/NavBar";
 import ItemListContainer from "./components/ItemListContainer/ItemListContainer";
 import "./components/Cart/Cart.css";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import ItemDetailContainer from "./components/ItemDetailContainer/ItemDetailContainer";
-import Cart from "./components/Cart/Cart";
-import { CartContext, CartProvider } from "./context/CartContext";
+import CartContainer from "./components/Cart/CartContainer";
+import { CartProvider } from "./context/CartContext";
 import Checkout from "./components/Checkout/Checkout";
 
 function App() {
@@ -28,7 +29,7 @@ function App() {
               element={<ItemListContainer />}
             />
             <Route path="/producto/:id" element={<ItemDetailContainer />} />
-            <Route path="/carrito" element={<Cart />} />
+            <Route path="/carrito" element={<CartContainer />} />
             <Route path="/checkout" element={<Checkout />} />
           </Routes>
         </BrowserRouter>

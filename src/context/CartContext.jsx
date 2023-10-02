@@ -4,7 +4,7 @@ export const CartContext = createContext();
 
 const cartInitial = JSON.parse(localStorage.getItem("cart")) || [];
 export const CartProvider = ({ children }) => {
-  const [cart, setCart] = useState([]);
+  const [cart, setCart] = useState(cartInitial);
 
   const addCart = (item, quantity) => {
     const AddedItem = { ...item, quantity };
@@ -30,13 +30,15 @@ export const CartProvider = ({ children }) => {
     setCart([]);
   };
 
+  const deleteProd = (pid) => setCart(cart.filter((prod) => prod.id !== pid));
+
   useEffect(() => {
     localStorage.setItem("cart", JSON.stringify(cart));
   }, [cart]);
 
   return (
     <CartContext.Provider
-      value={{ cart, addCart, cartNumber, totalPrice, emptyCart }}
+      value={{ cart, addCart, cartNumber, totalPrice, emptyCart, deleteProd }}
     >
       {children}
     </CartContext.Provider>

@@ -35,22 +35,25 @@ const Checkout = () => {
     <div>
       <h1> Completa tus datos para finalizar tu compra </h1>
       <form onSubmit={handleSubmit(send)}>
+        <div>
+
         <input
           type="text"
           placeholder="Indicanos tu nombre"
           {...register("name")}
-        />
+          />
         <input
           type="email"
           placeholder="Indicanos tu email"
           {...register("email")}
-        />
+          />
         <input
           type="phone"
           placeholder="Indicanos tu celular"
           {...register("phone")}
-        />
-        <button type="sumbit">Comprar</button>
+          />
+          </div>
+        <button className="buy-button" type="sumbit">Comprar</button>
       </form>
     </div>
   );
