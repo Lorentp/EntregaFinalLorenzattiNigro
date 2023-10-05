@@ -42,3 +42,7 @@ ul.categories {
   background-color: #ff0000;
   padding: 10px 60px;
 }
+
+li {
+  list-style: none;
+}
